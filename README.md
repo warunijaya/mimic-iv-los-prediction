@@ -151,7 +151,7 @@ For the project, following RMSE values were calculated for different models
 - LightGBM RMSE: 166.11
 - Neural Network RMSE: 205.94
 
-In this project,The highest RMSE value showed for Neural Network. For all the regression models predict RMSE values between 166-169 hours for patient length of stay. This means that, on average, all these models predictions are off by about 166-169 hours.
+In this project,The highest RMSE value showed for Neural Network. For all the other regression models predict RMSE values between 166-169 hours for patient length of stay. This means that, on average, all these models predictions are off by about 166-169 hours.
 
 
 ### Predictions vs Actual graphs 
