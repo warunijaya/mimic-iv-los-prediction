@@ -157,6 +157,8 @@ In this project,The highest RMSE value showed for Neural Network. For all the ot
 ### Predictions vs Actual graphs 
 
 The first and the second graphs are scatter plots comparing the actual hospital stay durations (on the x-axis) with the predicted hospital stay durations (on the y-axis) made by the linear regression model and Random Forest regression model respectively. 
+![Linear Regression Predictions vs Actuals](https://github.com/user-attachments/assets/4053cc34-334c-47ba-bbc8-b964edf80de3)
+
 
 - Diagonal Red Line:
 The red dashed line represents the "ideal" scenario where the predictions exactly match the actual values. For example, if a point lies on this line, the model has perfectly predicted the hospital stay duration for that instance.
