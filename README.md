@@ -159,6 +159,9 @@ In this project,The highest RMSE value showed for Neural Network. For all the ot
 The first and the second graphs are scatter plots comparing the actual hospital stay durations (on the x-axis) with the predicted hospital stay durations (on the y-axis) made by the linear regression model and Random Forest regression model respectively. 
 ![Linear Regression Predictions vs Actuals](https://github.com/user-attachments/assets/4053cc34-334c-47ba-bbc8-b964edf80de3)
 
+![Random Forest Predictions vs Actuals](https://github.com/user-attachments/assets/00219ad2-a86f-4774-a4f5-25ea5fb1a3ce)
+
+
 
 - Diagonal Red Line:
 The red dashed line represents the "ideal" scenario where the predictions exactly match the actual values. For example, if a point lies on this line, the model has perfectly predicted the hospital stay duration for that instance.
@@ -182,6 +185,9 @@ There’s a significant spread of points below the red line, which suggests the 
 Feature importance is a technique used to assess the impact of each feature (or variable) in a dataset on the predictions made by a machine learning model. Understanding feature importance enhances model interpretability, facilitates feature selection, and supports improved decision-making.
 
 In this project, feature importance analysis were conducted for Random Forest model. The most significant feature is the "age" influencing predictions.
+
+![Feature importance_los](https://github.com/user-attachments/assets/80597cda-7869-429a-8240-e272ec1b9e8e)
+
 
 For the Random Forest model, additional features with high importance include:
 
